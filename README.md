@@ -15,4 +15,3 @@ Here are some things about me.
 - I am looking creating some websites that will act like a personal journal vlog type system.  
 - I am thinking of creating a website that integrates QR codes to make my own dating profile instead of paying for an app.
 - I enjoy business and finance especially investments. 
--->
