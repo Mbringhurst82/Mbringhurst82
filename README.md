@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<!--
+## Hi there<!--
 **Mbringhurst82/Mbringhurst82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some things about me.  
@@ -14,4 +12,6 @@ Here are some things about me.
 - ⚡ Fun fact: I have been playing the piano for over 30 years now. 
 - I am looking creating some websites that will act like a personal journal vlog type system.  
 - I am thinking of creating a website that integrates QR codes to make my own dating profile instead of paying for an app.
-- I enjoy business and finance especially investments. 
+- I enjoy business and finance especially investments. 👋
+
+
